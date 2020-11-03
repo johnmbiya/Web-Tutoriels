@@ -1,3 +1,5 @@
+// letecode.com 
+
 var toggle_btn = document.getElementById('theme-btn');
 var body = document.getElementsByTagName('body')[0];
 
