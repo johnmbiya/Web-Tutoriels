@@ -1,3 +1,3 @@
-# Dark and Light Theme
+# Dark and Light Theme avec Cookie
 
-[https://www.letecode.com/configurer-le-mode-claire-et-sombre-dark-mode-sur-votre-site-web](https://www.letecode.com/configurer-le-mode-claire-et-sombre-dark-mode-sur-votre-site-web)
+[https://www.letecode.com/configurer-le-dark-mode-sur-votre-site-web-avec-les-cookies](https://www.letecode.com/configurer-le-dark-mode-sur-votre-site-web-avec-les-cookies)
